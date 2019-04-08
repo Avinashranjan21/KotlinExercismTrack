@@ -5,7 +5,7 @@ class HelloWorldTest {
 
     @Test
     fun helloWorldTest() {
-        assertEquals("Hello, World!", hello())
+        assertEquals("Hello, World!", HelloWorld())
     }
 
 }
